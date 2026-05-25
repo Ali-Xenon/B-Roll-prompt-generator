@@ -1,0 +1,6 @@
+{
+  "name": "Podcast B-Roll Prompt Generator",
+  "description": "Analyze podcast dialogue scripts, discover visually engaging opportunities for B-roll, and write descriptive, cinematic image-generation prompts optimized for Nanobanana 2 alongside on-the-spot preview rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
